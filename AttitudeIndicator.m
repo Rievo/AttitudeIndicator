@@ -128,7 +128,7 @@
         newHeight = 0;
     }
         
-    [self setNeedsDisplay];
+    [self display];
     
 }
 
